@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @paquisha
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
